@@ -346,7 +346,7 @@ const IndexPage = () => (
         </div>
       </section>
 
-      <hr className="m-0" />
+      {/* <hr className="m-0" />
 
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
@@ -450,7 +450,7 @@ const IndexPage = () => (
         </div>
       </section>
 
-      <hr className="m-0" />
+      <hr className="m-0" /> */}
 
       {/* <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
