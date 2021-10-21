@@ -2,6 +2,8 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
+import downloadFile from '../assets/files/resume.pdf'
+
 // import { Link } from 'gatsby';
 import Sidebar from '../components/Sidebar';
 import config from '../../config';
@@ -30,10 +32,13 @@ const IndexPage = () => (
               const { icon, url } = social;
               return (
                 <a key={url} href={url}>
-                  <i className={`fab ${icon}`}></i>
+                  <i className={`${icon}`}></i>
                 </a>
               );
             })}
+            <a key={downloadFile} href={downloadFile}>
+              <i className="fas fa-download"></i>
+            </a>
           </div>
         </div>
       </section>

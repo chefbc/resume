@@ -19,15 +19,20 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
+      icon: 'fab fa-github',
       name: 'Github',
       url: 'https://github.com/chefbc',
     },
     {
-      icon: 'fa-linkedin-in',
+      icon: 'fab fa-linkedin-in',
       name: 'Linkedin',
       url: 'https://linkedin.com/in/caseycarlsen/',
     },
+    // {
+    //   icon: 'fas fa-download',
+    //   name: 'Download',
+    //   url: 'src/assets/files/resume.pdf',
+    // },
     // {
     //   icon: 'fa-twitter',
     //   name: 'Twitter',
