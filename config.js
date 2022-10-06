@@ -11,10 +11,9 @@ module.exports = {
   firstName: 'Casey',
   lastName: 'Carlsen',
 
-  lead: 'IT professional with comprehensive experience in software installation, migrations, capacity planning, backup & recovery, \
-  performance tuning on Linux platform for MySQL and Oracle database systems. Heavily focused on re-platforming KOHLS.COM, \
-  the #1 customer facing application, to the cloud. Used new cloud technologies to provide flexibility and cost savings to traditional \
-  application architecture while being an integral part of design, building, automating and supporting multiple microservices databases on Google Cloud platform.',
+  lead: 'Experienced IT professional with comprehensive experience in software installation, migrations, capacity planning, backup & recovery, \
+  performance tuning on Linux / Unix platform for MySQL and Oracle database systems. Heavily focused on re-platforming KOHLS.COM, \
+  the #1 customer facing application, to the cloud leveraging cloud-native Google Cloud platform services.',
 
   // social
   socialLinks: [

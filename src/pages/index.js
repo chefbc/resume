@@ -36,9 +36,9 @@ const IndexPage = () => (
                 </a>
               );
             })}
-            <a key={downloadFile} href={downloadFile}>
+            {/* <a key={downloadFile} href={downloadFile}>
               <i className="fas fa-download"></i>
-            </a>
+            </a> */}
           </div>
         </div>
       </section>
@@ -51,36 +51,67 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Experience</h2>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="resume-content">
+              <h3 className="mb-0">Staff Software Engineer / Data Advocacy</h3>
+              <div className="subheading mb-3">Kohl’s Department Stores</div>
+              <ul>
+                <li>
+                  Evaluate current data science and data engineering processes and identify opportunities for improvement.
+                </li>
+                <li>
+                  Design, develop and deploy enterprise-scale, cloud-native Machine Learning (ML) solutions within Google Cloud Platform (GCP).
+                </li>
+                <li>
+                  Partner with various teams post deployment to ensure that the ML solution is solving business problems.
+                </li>
+                <li>
+                  Designing, developing, and deploying enterprise-scale Machine Learning solutions on GCP.
+                </li>
+                <li>
+                  Advocate for software development practices, such as Test Driven Development, Pair Programming, etc.
+                </li>
+                <li>
+                  Evaluate new data science platforms/tools to make current development practices more efficient.
+                </li>
+              </ul>
+            </div>
+            <div className="resume-date text-md-right">
+              <h5 className="text-primary">February 2022 - Present</h5>
+            </div>
+          </div>
+
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">Enterprise Staff Architect / Persistence Domain</h3>
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Evaluating internal functions, business development strategies, and IT processes and suggesting improvements.
+                  Evaluated internal functions, business development strategies, and IT processes and suggesting improvements.
                 </li>
                 <li>
-                  Creating business architecture models to reflect the organization's strategies and goals.
+                  Created business architecture models to reflect the organization's strategies and goals.
                 </li>
                 <li>
-                  Suggesting ideas to reduce costs.
+                  Suggested ideas to reduce costs.
                 </li>
                 <li>
-                  Organizing training to improve employees' knowledge and skills for future organizational growth.
+                  Organized training to improve employees' knowledge and skills for future organizational growth.
                 </li>
                 <li>
-                  Providing business architecture and systems processing guidance.
+                  Provided business architecture and systems processing guidance.
                 </li>
                 <li>
-                  Ensuring the efficiency, security, and support of the organization's goals.
+                  Ensured the efficiency, security, and support of the organization's goals.
                 </li>
                 <li>
-                  Determining and implementing build versus buy strategies.
+                  Determined and implemented build versus buy strategies.
                 </li>
               </ul>
             </div>
             <div className="resume-date text-md-right">
-              <h5 className="text-primary">February 2020 - Present</h5>
+              <h5 className="text-primary">February 2020 - February 2022</h5>
             </div>
           </div>
 
@@ -156,13 +187,13 @@ const IndexPage = () => (
                   Helped implement database security products (Oracle Redaction, TDE encryption, custom scrubbing scripts).
                 </li>
                 <li>
-                  Developed automation for Oracle installation in 1000+  remote stores.
+                  Developed automation for Oracle installation in 1200+ remote stores.
                 </li>
                 <li>
                   Supported automation for 140 Oracle development environments.
                 </li>
                 <li>
-                  Experience deploying to VMware
+                  Experience deploying to VMware.
                 </li>
                 <li>
                   Oracle Standby / Failover Administration.
@@ -171,7 +202,7 @@ const IndexPage = () => (
                   Experience with Oracle Exadata/RAC systems.
                 </li>
                 <li>
-                  Managed and review database schema objects like tables, indexes and views .
+                  Managed and review database schema objects like tables, indexes and views.
                 </li>
                 <li>
                   Acted as first and second level support for production issues providing 24x7 support and uptime.
@@ -192,22 +223,22 @@ const IndexPage = () => (
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Research application problems and provide solutions to minimize the impact to interfacing systems
+                  Research application problems and provide solutions to minimize the impact to interfacing systems.
                 </li>
                 <li>
-                  Fix problems to existing applications
+                  Fix problems to existing applications.
                 </li>
                 <li>
-                  Perform troubleshooting tasks
+                  Perform troubleshooting tasks.
                 </li>
                 <li>
-                  Conduct code reviews
+                  Conduct code reviews.
                 </li>
                 <li>
-                  Work with development team members on new projects
+                  Work with development team members on new projects.
                 </li>
                 <li>
-                  Provide On-call support for production applications (kohls.com)
+                  Provide On-call support for production applications (Kohls.com).
                 </li>
               </ul>
             </div>
@@ -222,25 +253,28 @@ const IndexPage = () => (
               <div className="subheading mb-3">The Benefit Services Group, Inc.</div>
               <ul>
                 <li>
-                  Assist with internal computer hardware issues
+                  Maintained, developed, internal and external ASP.NET/VB.NET applications. 
                 </li>
                 <li>
-                  Participate in the overall planning, direction and coordination of clients’ employee benefits related website document management, website design, application design and development, and database design and management
+                  Assisted with internal computer hardware issues.
                 </li>
                 <li>
-                  Participate in the creation of the graphics, layouts, database design content and dynamic content of our clients’ employee benefits related websites and data management programs
+                  Participated in the overall planning, direction and coordination of clients’ employee benefits related website document management, website design, application design and development, and database design and management.
                 </li>
                 <li>
-                  Plan, coordinate and implement benefit enrollments, extranet sites and employee self-services sites, working with BSG’s Analytical Services department or outside vendors if needed
+                  Participate in the creation of the graphics, layouts, database design content and dynamic content of our clients’ employee benefits related websites and data management programs.
                 </li>
                 <li>
-                  Develop and present IT recommendations by evaluating current applications and Analyze and evaluate IT applications and formulate recommendations
+                  Planned, coordinated, and implemented  benefit enrollments, extranet sites and employee self-services sites, working with BSG’s Analytical Services department or outside vendors if needed.
                 </li>
                 <li>
-                  Manage tasks and projects from multiple clients simultaneously while meeting designated deadlines and standards
+                  Developed and presented IT recommendations by evaluating current applications and Analyze and evaluate IT applications and formulate recommendations.
                 </li>
                 <li>
-                  Identify, evaluate and resolve client issues within prescribed timeframes and guidelines
+                  Managed tasks and projects from multiple clients simultaneously while meeting designated deadlines and standards.
+                </li>
+                <li>
+                  Identified, evaluated and resolved client issues within prescribed timeframes and guidelines.
                 </li>
               </ul>
             </div>
@@ -255,16 +289,16 @@ const IndexPage = () => (
               <div className="subheading mb-3">HellermannTyton</div>
               <ul>
                 <li>
-                  Maintain, develop, and grow software and printer systems
+                  Maintained and developed software and printer systems.
                 </li>
                 <li>
-                  Website maintenance
+                  Maintained website.
                 </li>
                 <li>
-                  Provide tech support for software and thermal transfer printers
+                  Provided tech support for software and thermal transfer printers.
                 </li>
                 <li>
-                  Ensure inventory is in place and backup units are available for repair
+                  Ensured inventory is in place and backup units are available for repair.
                 </li>
               </ul>
             </div>
@@ -288,12 +322,6 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">University of Wisconsin Oshkosh</h3>
               <div className="subheading mb-3">Bachelor of Computer Science</div>
-              <ul>
-                <li>
-                  {/* <i class="fa-li fas fa-circle"></i> */}
-                  Swimming and Diving Team
-                </li>
-              </ul>
             </div>
             <div className="resume-date text-md-right">
               <h5 className="text-primary">May 2006</h5>
