@@ -58,22 +58,19 @@ const IndexPage = () => (
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Evaluate current data science and data engineering processes and identify opportunities for improvement.
+                Modernize Data Science & Engineering Processes: Evaluate current workflows for data science and data engineering to identify opportunities for improvement and implement best practices for efficiency, scalability, and reduced operational costs.
                 </li>
                 <li>
-                  Design, develop and deploy enterprise-scale, cloud-native Machine Learning (ML) solutions within Google Cloud Platform (GCP).
+                Develop & Deploy Cost-Effective ML Solutions on GCP: Design, architect, develop, and deploy production-ready ML solutions at enterprise scale leveraging Google Cloud Platform services (Vertex AI, BigQuery, Dataproc, etc.) while prioritizing cost optimization through service selection, resource management, and automated workflows.
                 </li>
                 <li>
-                  Partner with various teams post deployment to ensure that the ML solution is solving business problems.
+                Collaborate for Business Impact: Partner with cross-functional teams to ensure deployed ML solutions effectively address business problems, measure success, and iterate for continuous improvement, including minimizing support costs through proactive monitoring and user education
                 </li>
                 <li>
-                  Designing, developing, and deploying enterprise-scale Machine Learning solutions on GCP.
+                Champion Agile Practices: Advocate for and implement modern software development practices such as Test Driven Development (TDD) and Pair Programming to ensure code quality, collaboration, maintainability, and reduced development and maintenance costs.
                 </li>
                 <li>
-                  Advocate for software development practices, such as Test Driven Development, Pair Programming, etc.
-                </li>
-                <li>
-                  Evaluate new data science platforms/tools to make current development practices more efficient.
+                Drive Innovation & Efficiency with Cost-Consciousness: Evaluate emerging data science platforms and tools to continuously enhance the efficiency and effectiveness of current development practices, prioritizing solutions that offer cost benefits and reduced support needs.
                 </li>
               </ul>
             </div>
@@ -88,25 +85,19 @@ const IndexPage = () => (
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Evaluated internal functions, business development strategies, and IT processes and suggesting improvements.
+                Streamlined Operations for Growth: Evaluated internal functions, business development strategies, and IT processes, identifying opportunities to improve efficiency, reduce costs, and support future organizational growth, all while navigating the challenges of the COVID-19 pandemic.
                 </li>
                 <li>
-                  Created business architecture models to reflect the organization's strategies and goals.
+                Architected for Scalability & Cost Savings: Created business architecture models that reflected the organization's strategies and goals, prioritizing cloud optimization to achieve cost savings and enable operations with a leaner staff.
                 </li>
                 <li>
-                  Suggested ideas to reduce costs.
+                Up-skilled Workforce for Success: Organized training programs to enhance employee knowledge and skills critical for future growth, ensuring the workforce was equipped to adapt and thrive in a changing environment.
                 </li>
                 <li>
-                  Organized training to improve employees' knowledge and skills for future organizational growth.
+                Guided Cloud Adoption & System Efficiency: Provided strategic business architecture and systems processing guidance, focusing on transitioning to the cloud for agility, security, and operational efficiency.
                 </li>
                 <li>
-                  Provided business architecture and systems processing guidance.
-                </li>
-                <li>
-                  Ensured the efficiency, security, and support of the organization's goals.
-                </li>
-                <li>
-                  Determined and implemented build versus buy strategies.
+                Delivered Value Throughout Crisis: Ensured the organization's goals were met throughout the pandemic by implementing a "build versus buy" strategy that balanced cost-effectiveness with maintaining necessary functionalities.This approach minimized disruptions and preserved business value despite a potentially reduced workforce.
                 </li>
               </ul>
             </div>
@@ -117,55 +108,45 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Sr. Database Administrator / Platform Engineer</h3>
+              <h3 className="mb-0">Sr. Database Administrator / Cloud Platform Engineer</h3>
               <h3 className="mb-0">MySQL Database Administrator / Platform Engineer</h3>
 
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Extensive experience architecting, designing, and supporting highly available MySQL databases in an Google Cloud environments.
+                Extensive Experience with Cloud-Native MySQL Management: Architect, design, and support highly available MySQL databases in Google Cloud Platform (GCP) environments, ensuring scalability, security, and performance.
                 </li>
                 <li>
-                  Designed, developed and support automation tools used to deploy MySQL, NDB and MySQL Enterprise Monitor.
+                DevOps Automation Champion: Designed, developed, and supported automation tools using Python and Ansible to streamline deployments of MySQL, NDB, and MySQL Enterprise Monitor for increased efficiency and reduced manual effort.
                 </li>
                 <li>
-                  Developed monitoring dashboards, alerts for cloud base databases using MySQL Enterprise Monitor.
+                Cloud Monitoring & Alerting Expertise: Created comprehensive monitoring dashboards and alerts for cloud-based databases utilizing MySQL Enterprise Monitor, enabling proactive issue identification and resolution.
                 </li>
                 <li>
-                  Lead in the execution and development of MySQL automation framework based on Ansible and Python.
+                Leadership in MySQL Automation Framework: Led the development and execution of a robust MySQL automation framework using Ansible and Python, guaranteeing adherence to compliance and security requirements.
                 </li>
                 <li>
-                  Ensures automation handles all appropriate compliance and security requirements.
+                Infrastructure as Code (IaC) & CI/CD Proficient: Possess expertise in IaC tools like Ansible, Packer, Terraform, and Puppet, and leverage CI/CD tools like Jenkins to automate infrastructure provisioning and application deployments.
                 </li>
                 <li>
-                  Experience with infrastructure as code tools such as Ansible, Packer, Terraform, and Puppet, Python.
+                Open Source Savvy: Utilize open-source tools like Packer, Consul, and Vault to enhance infrastructure management and security.
                 </li>
                 <li>
-                  Experience using CICD tools such as Jenkins.
+                Git & GitHub Expertise: Actively engage in version control and collaboration practices using Git and GitHub.
                 </li>
                 <li>
-                  Experience with open source tools  as Packer, Consul, Vault.
+                DevOps/Agile Teamwork: Thrive in DevOps and Agile environments, fostering strong collaboration skills for successful project execution.          
                 </li>
                 <li>
-                  Experience using Git and GitHub.
+                Proven Database Operations & Migration Experience: Supported installations, patching, upgrades, and disaster recovery for kohls.com, demonstrating operational excellence.
                 </li>
                 <li>
-                  Experience working in DevOps/Agile environment and strong collaboration skills.
-                </li>
-                <li>
-                  Supported installations, patching, upgrades, and disaster recovery for kohls.com.
-                </li>
-                <li>
-                  Helped with provide data migration strategy of Oracle to MySQL.
-                </li>
-                <li>
-                  Reviewed viability of container based database deployments on Kubernetes and OpenShift platforms.
+                Data Migration Strategy & Containerization Exploration: Contributed to developing a data migration strategy from Oracle to MySQL and investigated the viability of deploying container-based MySQL solutions on Kubernetes and OpenShift platforms, showcasing a forward-thinking approach.
                 </li>
               </ul>
             </div>
             <div className="resume-date text-md-right">
-              <h5 className="text-primary">March 2018 - January 2020</h5>
-              <h5 className="text-primary">January 2017 - March 2018</h5>
+              <h5 className="text-primary">January 2017 - January 2020</h5>
             </div>
           </div>
 
@@ -175,40 +156,34 @@ const IndexPage = () => (
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Supported Kohls.com Oracle databases.
+                Extensive Oracle Database Management for Kohls.com: Supported the critical Oracle databases powering Kohls.com, ensuring smooth operation, performance, and security.
                 </li>
                 <li>
-                  Efficient in enterprise monitoring tools like Oracle OEM.
+                Performance Optimization & Monitoring Expertise: Utilized enterprise monitoring tools like Oracle OEM to identify performance bottlenecks and implemented effective tuning strategies to optimize database efficiency.
                 </li>
                 <li>
-                  Provided performance tuning when needed.
+                Enhanced Database Security: Contributed to implementing robust security measures like Oracle Redaction, TDE encryption, and custom scrubbing scripts to safeguard sensitive data.
                 </li>
                 <li>
-                  Helped implement database security products (Oracle Redaction, TDE encryption, custom scrubbing scripts).
+                Automated Database Management: Developed automation scripts to streamline Oracle installation across 1200+ remote stores, significantly reducing manual effort and improving deployment consistency.
                 </li>
                 <li>
-                  Developed automation for Oracle installation in 1200+ remote stores.
+                Streamlined Development Environment Support: Supported the automation of 140 Oracle development environments, enabling efficient development workflows.
                 </li>
                 <li>
-                  Supported automation for 140 Oracle development environments.
+                VMware Deployment Experience: Possess experience deploying Oracle databases to VMware environments, demonstrating versatility in infrastructure management.
                 </li>
                 <li>
-                  Experience deploying to VMware.
+                Oracle Standby/Failover Administration: Managed standby databases and failover processes to ensure high availability and disaster recovery for critical systems.
                 </li>
                 <li>
-                  Oracle Standby / Failover Administration.
+                Experience with Oracle Exadata/RAC Systems: Familiarity with high-performance Oracle Exadata and RAC (Real Application Clusters) architectures.
                 </li>
                 <li>
-                  Experience with Oracle Exadata/RAC systems.
+                Database Schema Management: Managed and reviewed database schema objects like tables, indexes, and views, ensuring data integrity and efficient querying.
                 </li>
                 <li>
-                  Managed and review database schema objects like tables, indexes and views.
-                </li>
-                <li>
-                  Acted as first and second level support for production issues providing 24x7 support and uptime.
-                </li>
-                <li>
-                  Provided on call support for production and development issues.
+                Proven On-Call Support: Provided 24/7 support for production issues, proactively identifying and resolving problems to maintain optimal uptime.
                 </li>
               </ul>
             </div>
@@ -223,22 +198,19 @@ const IndexPage = () => (
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
-                  Research application problems and provide solutions to minimize the impact to interfacing systems.
+                Application Troubleshooting & Problem-Solving: Analyzed application issues, researched root causes, and devised solutions to minimize disruptions to interfacing systems, exhibiting strong analytical and problem-solving skills.
                 </li>
                 <li>
-                  Fix problems to existing applications.
+                Application Maintenance & Bug Fixes: Efficiently addressed existing application problems and implemented effective fixes to ensure optimal functionality and user experience.s
                 </li>
                 <li>
-                  Perform troubleshooting tasks.
+                Collaborative Development Environment: Actively participated in code reviews, providing valuable feedback and fostering a culture of continuous improvement within the development team.
                 </li>
                 <li>
-                  Conduct code reviews.
+                Project Collaboration: Worked closely with development team members on new projects, contributing technical expertise and collaborative spirit.
                 </li>
                 <li>
-                  Work with development team members on new projects.
-                </li>
-                <li>
-                  Provide On-call support for production applications (Kohls.com).
+                Proven On-Call Support for Kohls.com: Provided reliable 24/7 on-call support for critical applications powering Kohls.com, ensuring timely resolution of issues and maintaining high availability.
                 </li>
               </ul>
             </div>
@@ -253,28 +225,28 @@ const IndexPage = () => (
               <div className="subheading mb-3">The Benefit Services Group, Inc.</div>
               <ul>
                 <li>
-                  Maintained, developed, internal and external ASP.NET/VB.NET applications. 
+                Developed & Maintained ASP.NET/VB.NET Applications: Possess strong programming skills in ASP.NET and VB.NET, experience in developing and maintaining internal and external applications.
                 </li>
                 <li>
-                  Assisted with internal computer hardware issues.
+                Technical Support & Troubleshooting: Provided assistance with internal computer hardware issues, demonstrating broad technical knowledge.
                 </li>
                 <li>
-                  Participated in the overall planning, direction and coordination of clients’ employee benefits related website document management, website design, application design and development, and database design and management.
+                Project Management & Client Collaboration: Participated in the entire lifecycle of client projects, including planning, direction, and coordination for website document management, design, application development, and database management.
                 </li>
                 <li>
-                  Participate in the creation of the graphics, layouts, database design content and dynamic content of our clients’ employee benefits related websites and data management programs.
+                Design & Content Creation: Contributed to the design and content creation for client websites, including graphics ,layouts, database design, and dynamic content, showcasing versatility in both technical and creative aspects.
                 </li>
                 <li>
-                  Planned, coordinated, and implemented  benefit enrollments, extranet sites and employee self-services sites, working with BSG’s Analytical Services department or outside vendors if needed.
+                Benefits Administration Systems Expertise: Planned, coordinated, and implemented benefits enrollment systems, extranet sites, and employee self-service sites, demonstrating experience in benefits administration technology.
                 </li>
                 <li>
-                  Developed and presented IT recommendations by evaluating current applications and Analyze and evaluate IT applications and formulate recommendations.
+                IT Recommendation & Analysis: Developed and presented IT recommendations by evaluating current applications and analyzing needs to formulate strategic improvements.
                 </li>
                 <li>
-                  Managed tasks and projects from multiple clients simultaneously while meeting designated deadlines and standards.
+                Project Management & Client Support: Managed tasks and projects for multiple clients simultaneously, ensuring adherence to deadlines and standards.
                 </li>
                 <li>
-                  Identified, evaluated and resolved client issues within prescribed timeframes and guidelines.
+                Client Issue Resolution: Identified, evaluated, and resolved client issues within established timeframes and guidelines, exhibiting strong problem-solving and customer service skills.
                 </li>
               </ul>
             </div>
@@ -289,16 +261,16 @@ const IndexPage = () => (
               <div className="subheading mb-3">HellermannTyton</div>
               <ul>
                 <li>
-                  Maintained and developed software and printer systems.
+                Software & Printer System Management: Maintained and developed software and thermal transfer printer systems, ensuring optimal functionality and user experience.
                 </li>
                 <li>
-                  Maintained website.
+                Website Maintenance & Support: Managed and maintained website content and technical aspects, guaranteeing smooth operation and user access.
                 </li>
                 <li>
-                  Provided tech support for software and thermal transfer printers.
+                Technical Support Specialist: Provided comprehensive technical support to users, troubleshooting software and printer issues for efficient resolution.
                 </li>
                 <li>
-                  Ensured inventory is in place and backup units are available for repair.
+                Inventory Management & Proactive Maintenance: Ensured adequate inventory levels of crucial supplies and maintained backup units for repair, minimizing downtime and maximizing operational efficiency.
                 </li>
               </ul>
             </div>

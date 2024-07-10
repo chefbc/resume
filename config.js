@@ -11,9 +11,7 @@ module.exports = {
   firstName: 'Casey',
   lastName: 'Carlsen',
 
-  lead: 'Experienced IT professional with comprehensive experience in software installation, migrations, capacity planning, backup & recovery, \
-  performance tuning on Linux / Unix platform for MySQL and Oracle database systems. Heavily focused on re-platforming KOHLS.COM, \
-  the #1 customer facing application, to the cloud leveraging cloud-native Google Cloud platform services.',
+  lead: "Highly motivated and results-oriented Cloud Architect with extensive experience leading cloud transformation initiatives.  Possess a deep understanding of Google Cloud Platform (GCP) services and a proven track record of successfully migrating critical applications and modernizing data science practices to leverage Vertex AI, BigQuery, and Dataproc.  Skilled in automation, DevOps practices, and cost optimization to deliver efficient and scalable cloud solutions.  Eager to leverage expertise to lead your organization's successful journey to the cloud.",
 
   // social
   socialLinks: [
