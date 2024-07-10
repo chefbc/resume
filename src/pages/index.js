@@ -54,7 +54,7 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Staff Software Engineer / Data Advocacy</h3>
+              <h3 className="mb-0">Staff Architect Data Science / Machine Learning</h3>
               <div className="subheading mb-3">Kohl’s Department Stores</div>
               <ul>
                 <li>
